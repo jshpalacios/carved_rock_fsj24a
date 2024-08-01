@@ -1,0 +1,14 @@
+/** pseudoclase, asigna variables predifinidas */
+:root{
+    --blanco: white;
+    --color-secundario: gray;
+}
+
+/** Selector Universal */
+*{
+    margin: 0;
+    padding: 0;
+    /** manejamos que las cajitas no se sobrepasan del contenedor */
+    box-sizing: border-box;
+}
+
